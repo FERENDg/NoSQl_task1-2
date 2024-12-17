@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: socialNetT1
+  data:
+    mongodb:
+      uri: mongodb+srv://yura5fua:<db_password>@cluster0.mb44m.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database: MongoDB
+  neo4j:
+    uri: neo4j+s://7bdaa608.databases.neo4j.io
+    authentication:
+      password: CK5wzU8oQBfUWynIuebTbuV1K7vdAsuDzJDXOzuOqF8
+      username: neo4j
